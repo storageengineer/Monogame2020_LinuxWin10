@@ -1,18 +1,12 @@
-https://spdx.org/licenses/MS-PL.html
+[SPDX License Link](https://spdx.org/licenses/MS-PL.html)
 
-Microsoft Public License (Ms-PL)
+# Microsoft Public License (Ms-PL)
 
 This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
 
 1. Definitions
 
-The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under U.S. copyright law.
-
-A "contribution" is the original software, or any additions or changes to the software.
-
-A "contributor" is any person that distributes its contribution under this license.
-
-"Licensed patents" are a contributor's patent claims that read directly on its contribution.
+The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under U.S. copyright law.  A "contribution" is the original software, or any additions or changes to the software.  A "contributor" is any person that distributes its contribution under this license.  "Licensed patents" are a contributor's patent claims that read directly on its contribution.
 
 2. Grant of Rights
 
