@@ -9,6 +9,8 @@ Renamed, unzipped, and extracted the template code files.  The C# files contain 
 
 This is a Monogame v3.8, Desktop GL project.  C# files were added to the project manually and the /contents folder was rebuilt manually.
 
+Make sure you edit the gamefonts.spritefont and menufonts.spritefont to use a font on your system.  Currently its set to Arial font.
+
 There's no dependencies to the original XNA assemblies nor does it reqire an old version of Visual Studio.
 
 If I learn how to create a VS2019 Template addon, I'll add that to this repository
